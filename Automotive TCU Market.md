@@ -81,11 +81,3 @@ https://www.futuremarketinsights.com/reports/automotive-tcu-market
 •	By Fuel Type – Gasoline, Diesel, Hybrid, Electric
 
 •	By Region – North America, Europe, Asia Pacific, Latin America, Middle East & Africa
-
-
-
-By Transmission Type – AT, CVT, DCT, AMT
-
-By Fuel Type – Gasoline, Diesel, Hybrid, Electric
-
-By Region – North America, Europe, Asia Pacific, Latin America, Middle East & Africa
